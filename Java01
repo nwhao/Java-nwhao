@@ -47,6 +47,7 @@ public class Book {
 	
 	public String declaredMethod(int index)
 	{
+		String test = "test";
 		String string = null;
 		switch(index) 
 		{
